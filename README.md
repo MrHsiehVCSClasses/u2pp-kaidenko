@@ -1,2 +1,1 @@
-# Empty Project Template
-Fill in this README while working on your project. 
+This code's purpose to practice your rizz with discord MODS. It essentially is a dating simulator that creates a scenario that is based on your decisions. For example, you may select option 1 and it will put in scenario 1, then again, then again, then again. It creates a system in whch ONLY YOU are the one who decides your fate. 

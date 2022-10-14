@@ -34,7 +34,7 @@ public class Main {
                 }
                 else {
                     System.out.println("BakaErica: KONO BAKA~~ even if u do not love me. I will be your little kitten no matter what~~ Pwease buy me daddy!");
-                    System.out.println("(1 = buy | 2 = deny");
+                    System.out.println("(1 = buy | 2 = deny)");
                     String input3 = myScanner.nextLine();
                     int nitroChooseN = Integer.valueOf(input3);
 
