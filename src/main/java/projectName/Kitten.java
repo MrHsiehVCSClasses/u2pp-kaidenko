@@ -1,4 +1,4 @@
-package main.java.projectName;
+package main.java.projectName  ;
 
 public class Kitten {
 

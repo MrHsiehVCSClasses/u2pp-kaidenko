@@ -33,12 +33,18 @@ public String getameKitten(){
     return nameKitten;
 }
 
+public void eloAndRole(){
+    System.out.println("Meowww btw I am " + elo + " " + role + " in league of legends." + "What is your role?");
+}
+
 public void showBobies(){
-    System.out.println("i am " + elo + " " + role);
-    System.out.println("here is bobies");
     System.out.println("https://cdn.discordapp.com/attachments/1014220683053633600/1027366166106214481/eric_hsieh.jpeg");
 }
 
+public void blocked(){
+    System.out.println(" * ClydeBot: Your message could not be delivered. This is usually because you don't share a server with the recipient or the recipient is only accepting direct messages from friends. You can see the full list of reasons here: https://support.discord.com/hc/en-us/articles/360060145013 * ");
+    System.out.println("          *You have negative rizz*          ");
+}
 public Egirl(String newnameKitten){
     super(newnameKitten);
 }
